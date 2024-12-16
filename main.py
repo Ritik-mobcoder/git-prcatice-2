@@ -7,6 +7,11 @@ def substract(x, y):
     return y - x
 
 
+def multiply(x, y):
+    """Multiply x with y"""
+    return x * y
+
+
 a = 4
 b = 7
 print(sum(a, b))
