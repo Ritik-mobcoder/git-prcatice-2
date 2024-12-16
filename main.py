@@ -11,6 +11,9 @@ def multiply(x, y):
     """Multiply x with y"""
     return x * y
 
+def devision(a,b):
+    return a/b 
+
 
 a = 4
 b = 7
